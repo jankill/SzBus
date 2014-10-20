@@ -1,0 +1,4 @@
+
+1、http://apis.juhe.cn/szbusline/bus?key=c8baa60764b604d148d89c400696345b&station=%E7%BA%B3%E7%B1%B3
+2、http://apis.juhe.cn/szbusline/bus?key=%E6%82%A8%E7%94%B3%E8%AF%B7%E7%9A%84APPKEY&stationCode=AWE&dtype=json
+3、http://apis.juhe.cn/szbusline/bus?key=c8baa60764b604d148d89c400696345b&busline=edc1ecd6-2bf8-4b08-8727-385bb8943b9d&dtype=json
